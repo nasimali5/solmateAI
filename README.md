@@ -111,7 +111,7 @@ Build and upload the firmware to your ESP32 device. The ESP32 should open an `EL
 19. **Security System**: AES-256 encrypted communications with biometric voice ID  
 20. **Developer Mode**: ROS 2 Humble integration with full sensor data streaming
 
-🌟 ## High-Level Flowchart
+## 🌟 High-Level Flowchart
 
 ```mermaid
 flowchart TD
@@ -127,7 +127,7 @@ flowchart TD
   Edge -->|WebSocket| ESP32
   ESP32 --> UserOutput
 ```
-🌟 ## Project Structure
+## 🌟 Project Structure
 
 ```mermaid
 graph TD
