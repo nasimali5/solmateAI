@@ -91,7 +91,7 @@ Build and upload the firmware to your ESP32 device. The ESP32 should open an `EL
 ## 🌟 Features
 
 1. **Work with ChatGPT**: Seamless integration with GPT-4 Turbo API for natural conversations and task execution  
-2. **LOOI Free APP**: Cross-platform control app (iOS/Android/Web) with 50+ preset action routines  
+2. **SOLmate Free APP**: Cross-platform control app (iOS/Android/Web) with 50+ preset action routines  
 3. **Alignment Magnet**: Precision docking system with neodymium magnets (±0.5mm positioning accuracy)  
 4. **Front Touch Sensor**: Capacitive touch interface with haptic feedback (10ms response time)  
 5. **RGB LED Bar**: Programmable 16-zone light strip supporting 16M color combinations  
