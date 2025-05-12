@@ -1,4 +1,4 @@
-
+<img src="assets/sQAQxjV8_400x400.jpg" alt="solmateAI Logo" width="100%">
 
 # 🤖 SolmateAI Smartphone Desktop Robot 
 
